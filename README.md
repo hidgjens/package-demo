@@ -2,4 +2,4 @@
 A demo for constructing a Python package
 
 
-![Tests](https://github.com/hidgjens/package-demo/actions/workflows/tests/badge.svg)
+![Tests](https://github.com/hidgjens/package-demo/actions/workflows/tests.yaml/badge.svg)
